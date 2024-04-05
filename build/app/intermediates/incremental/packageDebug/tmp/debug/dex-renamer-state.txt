@@ -1,0 +1,4 @@
+#Fri Apr 05 13:51:05 IST 2024
+base.0=C\:\\Users\\nrameshg\\OneDrive - Capgemini\\Desktop\\FlutterProjects\\weather_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
